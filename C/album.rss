@@ -10,25 +10,25 @@
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>DSCF3853</title>
-            <link>slides/DSCF3853.JPG</link>
+            <link>DSCF3853.JPG</link>
             <pubDate>Sat, 24 Jan 2026 11:23:34 +0530</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/DSCF3853.JPG" width="90" height="90"/>
-            <media:content type="image/jpeg" url="slides/DSCF3853.JPG" width="600" height="900"/>
+            <media:content type="image/jpeg" url="DSCF3853.JPG" width="5152" height="7728"/>
             <jalbum:exif originalDate="Sat, 18 Oct 2025 20:02:20 +0530" cameraMake="FUJIFILM" cameraModel="X-T50"/>
-            <guid isPermaLink="false">slides/DSCF3853.JPG</guid>
+            <guid isPermaLink="false">DSCF3853.JPG</guid>
         </item>
         <item>
             <title>DSCF3855</title>
-            <link>slides/DSCF3855.jpg</link>
+            <link>DSCF3855.jpg</link>
             <pubDate>Sat, 24 Jan 2026 11:23:34 +0530</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/DSCF3855.jpg" width="90" height="90"/>
-            <media:content type="image/jpeg" url="slides/DSCF3855.jpg" width="600" height="900"/>
+            <media:content type="image/jpeg" url="DSCF3855.jpg" width="5152" height="7728"/>
             <jalbum:exif originalDate="Sat, 18 Oct 2025 20:02:29 +0530" cameraMake="FUJIFILM" cameraModel="X-T50"/>
-            <guid isPermaLink="false">slides/DSCF3855.jpg</guid>
+            <guid isPermaLink="false">DSCF3855.jpg</guid>
         </item>
     </channel>
 </rss>

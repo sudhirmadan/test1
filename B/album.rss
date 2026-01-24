@@ -10,25 +10,25 @@
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>DSCF0819</title>
-            <link>slides/DSCF0819.JPG</link>
+            <link>DSCF0819.JPG</link>
             <pubDate>Sat, 24 Jan 2026 11:23:34 +0530</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/DSCF0819.JPG" width="90" height="90"/>
-            <media:content  url="slides/DSCF0819.JPG" width="507" height="900"/>
+            <media:content type="image/jpeg" url="DSCF0819.JPG" width="3512" height="6240"/>
             <jalbum:exif originalDate="Sun, 19 Oct 2025 20:43:40 +0530" cameraMake="FUJIFILM" cameraModel="X-M5"/>
-            <guid isPermaLink="false">slides/DSCF0819.JPG</guid>
+            <guid isPermaLink="false">DSCF0819.JPG</guid>
         </item>
         <item>
             <title>DSCF0825</title>
-            <link>slides/DSCF0825.JPG</link>
+            <link>DSCF0825.JPG</link>
             <pubDate>Sat, 24 Jan 2026 11:23:34 +0530</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/DSCF0825.JPG" width="90" height="90"/>
-            <media:content type="image/jpeg" url="slides/DSCF0825.JPG" width="507" height="900"/>
+            <media:content type="image/jpeg" url="DSCF0825.JPG" width="3512" height="6240"/>
             <jalbum:exif originalDate="Sun, 19 Oct 2025 20:45:42 +0530" cameraMake="FUJIFILM" cameraModel="X-M5"/>
-            <guid isPermaLink="false">slides/DSCF0825.JPG</guid>
+            <guid isPermaLink="false">DSCF0825.JPG</guid>
         </item>
     </channel>
 </rss>
