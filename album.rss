@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>A</title>
+   	<link>.</link>
+        <generator>jAlbum 39</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="C/album.rss" title="C" thumbnail="C/thumbs/DSCF3853.JPG" thumbnailWidth="90" thumbnailHeight="90" />
+    	<jalbum:link rel="sub" href="B/album.rss" title="B" thumbnail="B/thumbs/DSCF0819.JPG" thumbnailWidth="90" thumbnailHeight="90" />
+    </channel>
+</rss>

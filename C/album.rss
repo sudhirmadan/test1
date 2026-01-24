@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>C</title>
+   	<link>..</link>
+        <generator>jAlbum 39</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>DSCF3853</title>
+            <link>slides/DSCF3853.JPG</link>
+            <pubDate>Sat, 24 Jan 2026 11:23:34 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCF3853.JPG" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCF3853.JPG" width="600" height="900"/>
+            <jalbum:exif originalDate="Sat, 18 Oct 2025 20:02:20 +0530" cameraMake="FUJIFILM" cameraModel="X-T50"/>
+            <guid isPermaLink="false">slides/DSCF3853.JPG</guid>
+        </item>
+        <item>
+            <title>DSCF3855</title>
+            <link>slides/DSCF3855.jpg</link>
+            <pubDate>Sat, 24 Jan 2026 11:23:34 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCF3855.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCF3855.jpg" width="600" height="900"/>
+            <jalbum:exif originalDate="Sat, 18 Oct 2025 20:02:29 +0530" cameraMake="FUJIFILM" cameraModel="X-T50"/>
+            <guid isPermaLink="false">slides/DSCF3855.jpg</guid>
+        </item>
+    </channel>
+</rss>
